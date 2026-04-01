@@ -1,0 +1,43 @@
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Next.js
+.next/
+out/
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Mobile
+.DS_Store
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/key.properties
+**/*.keystore
+**/*.jks
+
+# iOS
+**/Pods/
+**/.symlinks/
+**/.Generated.xcconfig
+
+# Mac
+.DS_Store
+
+# Other
+web.zip
